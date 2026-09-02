@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Share/">
+    <Project Path="Exercise28/Exercise28.csproj" />
+    <Project Path="Exercise37/Exercise37.csproj" />
+    <Project Path="Shared/Shared.csproj" />
+  </Folder>
+</Solution>
