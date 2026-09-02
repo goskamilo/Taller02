@@ -11,6 +11,7 @@ namespace Exercise28
             if (!IsValid(viga))
             {
                 Console.WriteLine(" La viga está mal construida!");
+
                 return;
             }
 
