@@ -6,6 +6,7 @@
         {
             Console.Write(prompt);
             return Console.ReadLine() ?? string.Empty;
+
         }
     }
 }

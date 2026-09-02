@@ -19,6 +19,7 @@ namespace Exercise37
                 {
                     horses.Add(trimmed);
                 }
+
             }
 
             foreach (var h1 in horses)
