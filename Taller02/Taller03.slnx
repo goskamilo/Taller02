@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Share/">
     <Project Path="Backendexercise28/Backendexercise28.csproj" Id="b8e6de28-3e55-4c88-91a1-9e4db326ab08" />
+    <Project Path="BackendExercise37/BackendExercise37.csproj" Id="e6b322a6-758f-4d0d-aa9d-311829c78490" />
     <Project Path="Exercise28/Exercise28.csproj" />
     <Project Path="Exercise37/Exercise37.csproj" />
     <Project Path="Shared/Shared.csproj" />

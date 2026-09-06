@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Backendexercise28\Backendexercise28.csproj" />
+    <ProjectReference Include="..\BackendExercise37\BackendExercise37.csproj" />
     <ProjectReference Include="..\Shared\Shared.csproj" />
   </ItemGroup>
 
