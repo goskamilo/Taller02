@@ -7,7 +7,7 @@ namespace Exercise37
     {
         static void Main(string[] args)
         {
-            // Se crea el evaluador.
+            // Se crea el evaluador. 
             IBeamEvaluator evaluator = new Exer37();
 
             // Solicita las posiciones.
